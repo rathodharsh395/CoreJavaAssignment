@@ -10,7 +10,8 @@ public static void table(int x,int y){
 }
 public static void main(String []args)
 {
-table(15,10);
+  table(15,10);
+  System.out.println("control came back");
 }
 }
 
